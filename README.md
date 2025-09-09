@@ -1,4 +1,4 @@
-# desec_c_scripts
+# Scripts em C
 
 Scripts criados em **C** durante o curso da [Desec](https://desecsecurity.com/).
 
