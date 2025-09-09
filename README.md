@@ -7,8 +7,12 @@ Scripts criados em **C** durante o curso da [Desec](https://desecsecurity.com/).
 
 ├── src/ # Códigos-fonte em C
 
-├── README.md # este arquivo
+├── README.md # Este arquivo
 
-├── docs/ #Anotações
+├── docs/ # Anotações
 
 └── .gitignore # arquivos a serem ignorados
+
+## 📄 Observações
+
+- Alguns scripts podem exigir permissões de administrador dependendo das funções utilizadas.
